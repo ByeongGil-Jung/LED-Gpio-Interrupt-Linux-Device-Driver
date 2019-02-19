@@ -36,6 +36,6 @@ arm-linux-gnueabihf-gcc run.c
 - Green : ground
 - Black : power
 
-![circuit_1](https://github.com/ByeongGil-Jung/LED-Gpio-Interrupt-Linux-Device-Driver/blob/master/github/img/circuit_1.png)  
-![circuit_2](https://github.com/ByeongGil-Jung/LED-Gpio-Interrupt-Linux-Device-Driver/blob/master/github/img/circuit_2.png)  
-![circuit_3](https://github.com/ByeongGil-Jung/LED-Gpio-Interrupt-Linux-Device-Driver/blob/master/github/img/circuit_3.png)
+![circuit_1](https://github.com/ByeongGil-Jung/LED-Gpio-Interrupt-Linux-Device-Driver/blob/master/github/img/circuit_1.jpg)  
+![circuit_2](https://github.com/ByeongGil-Jung/LED-Gpio-Interrupt-Linux-Device-Driver/blob/master/github/img/circuit_2.jpg)  
+![circuit_3](https://github.com/ByeongGil-Jung/LED-Gpio-Interrupt-Linux-Device-Driver/blob/master/github/img/circuit_3.jpg)
